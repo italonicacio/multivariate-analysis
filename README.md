@@ -1,2 +1,2 @@
-# multivariate-analysis
-Projeto final da disciplina de Análise Multivariada e Aprendizagem não supervisionado
+# Análise Multivariada e Aprendizagem Não Supervisionado
+Projeto final da disciplina de Análise Multivariada e Aprendizagem Não Supervisionado
